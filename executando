@@ -1,0 +1,6 @@
+#PARA O INDEX.HTML
+- executa o banco.js para gerar o banco.db
+node banca.js
+
+- executa aplicação apontando para o arquivo do banco
+npx live-server
